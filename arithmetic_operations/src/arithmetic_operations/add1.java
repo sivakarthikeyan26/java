@@ -6,8 +6,8 @@ public class add1 {
 		// TODO Auto-generated method
 		System.out.println("hello");
 		System.out.println("this is new line");
-		yellow
-		red
+		jhon
+		don
 
 	}
 
