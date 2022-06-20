@@ -7,6 +7,8 @@ public class add1 {
 		int a,b,c; 
 		System.out.println("hello");
 		System.out.println("this is new line");
+		jhon
+		don
 
 	}
 
